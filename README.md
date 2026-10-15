@@ -14,12 +14,12 @@
    
 2. **Enviando o arquivo com a tarefa realizada:** 
    Clique em 'ANEXOS' e 'ADICIONAR ANEXO' e selecione um arquivo do computador ou documento do OneDrive dde seu celular. Após o carregamento confira se o anexo aparece corretamente na atividade.
-   <img width="666" height="582" alt="image" src="https://github.com/user-attachments/assets/eac6d089-86d2-4598-bcea-ae3a5ad8961d" />
+   (<img width="666" height="582" alt="image" src="https://github.com/user-attachments/assets/eac6d089-86d2-4598-bcea-ae3a5ad8961d" />)
 
 
 4. **Concluindo a atividade:** 
     Após adicionar e conferir o arquivo, volte para a aba "DETALHES DA TAREFA", selecione a aba 'STATUS' e clique em 'CONCLUIDA', após isso, a sua tarefa terá sido entregue.
-   <img width="645" height="376" alt="image" src="https://github.com/user-attachments/assets/f10c96bc-8290-4330-be0b-a29d82985c5b" />
+   (<img width="645" height="376" alt="image" src="https://github.com/user-attachments/assets/f10c96bc-8290-4330-be0b-a29d82985c5b" />)
 
 
    
