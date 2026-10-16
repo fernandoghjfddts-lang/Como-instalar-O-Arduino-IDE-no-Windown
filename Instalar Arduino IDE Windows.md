@@ -16,7 +16,7 @@ Clique no link abaixo e o dowload do arquivo base da IDE vai começar imeditamen
 
 3. **Executando a Instalação**
   Após alguns segundos ou minutos o dowload será concluído e será possível acessá-lo nos arquivos do computador, ele provavelmente estará na forma 
-**arduino-ide_2.3.10_Windows_64bit**
+**arduino-1.8.19-windows**
 
 4. **Executando a Instalação:** 
  Clique 2 vezes no arquivo visível e você será automaticamente redirecionado para a seguinte página, a partir daí o processo é muito simples e seguir os comandos em destque na tela é suficiente para executar a instalação.
@@ -33,7 +33,7 @@ Após a última imagem a instalação começará imediatamente e alguns segundos
 
    <img width="1064" height="642" alt="image" src="https://github.com/user-attachments/assets/846bcce5-7b6e-4d24-abf1-5ad2f3795377" />
 
-   Após isso, vá até a aba **Ferramentas**, depois **Placa** e **Gerenciador de Placas**, lá pesquise por **Sparki** e instale a Placa
+   Após isso, conecte o cabo USB no sparki e no computador para que ele fique utilizável e vá até a aba **Ferramentas**, depois **Placa** e **Gerenciador de Placas**, lá pesquise por **Sparki** e instale a Placa
 
    <img width="1159" height="251" alt="image" src="https://github.com/user-attachments/assets/7fff8358-db85-49ac-942b-4374d31b6a2e" />
 
