@@ -12,13 +12,13 @@
 
 1. **Baixando o Instalador:** 
 Clique no link abaixo e o dowload do arquivo base da IDE vai começar imeditamente
-<https://downloads.arduino.cc/arduino-ide/arduino-ide_latest_Windows_64bit.exe>
+<https://downloads.arduino.cc/arduino-1.8.19-windows.exe>
 
-2. **Executando a Instalação**
+3. **Executando a Instalação**
   Após alguns segundos ou minutos o dowload será concluído e será possível acessá-lo nos arquivos do computador, ele provavelmente estará na forma 
 **arduino-ide_2.3.10_Windows_64bit**
 
-3. **Executando a Instalação:** 
+4. **Executando a Instalação:** 
  Clique 2 vezes no arquivo visível e você será automaticamente redirecionado para a seguinte página, a partir daí o processo é muito simples e seguir os comandos em destque na tela é suficiente para executar a instalação.
 <img width="629" height="435" alt="image" src="https://github.com/user-attachments/assets/d7fe4d9b-fd40-44db-a979-89d8b899bbab" />
 <img width="636" height="433" alt="image" src="https://github.com/user-attachments/assets/737fdb98-d134-415c-aac0-aeb4fdbb3ae0" />
