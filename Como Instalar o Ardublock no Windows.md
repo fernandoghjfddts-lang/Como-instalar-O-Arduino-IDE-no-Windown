@@ -11,7 +11,7 @@
 ## Passo a Passo
 
 1. **Instalando o arquivo do ardublock**:
-   Clique no link abaixo e o download do arquivo de iniciará imediatamente <https://github.com/ArcBotics/Sparki/blob/master/ArduBlock/ArduBlockTool/tool/ardublock.jar?raw=true>
+   Clique no link abaixo e o download do arquivo de iniciará imediatamente, caso esteja com o Sparkiduino no Windows, estes passos não são necessários, já que o ardublock já estará presente na aba **Ferramentas**.<https://github.com/ArcBotics/Sparki/blob/master/ArduBlock/ArduBlockTool/tool/ardublock.jar?raw=true>
 2. **Localizando a pasta da IDE:** 
    Abre o arduino IDE no computador e vá para **Arquivo** e depois **Preferências**, clique em Preferências e procure por **Local do sketchbook**
 
