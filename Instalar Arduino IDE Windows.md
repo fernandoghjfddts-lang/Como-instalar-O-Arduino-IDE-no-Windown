@@ -35,11 +35,13 @@ Após a última imagem a instalação começará imediatamente e alguns segundos
 
    Após isso, conecte o cabo USB no sparki e no computador para que ele fique utilizável e vá até a aba **Ferramentas**, depois **Placa** e **Gerenciador de Placas**, lá pesquise por **Sparki** e instale a Placa
 
-   <img width="1159" height="251" alt="image" src="https://github.com/user-attachments/assets/7fff8358-db85-49ac-942b-4374d31b6a2e" />
-
    <img width="1113" height="728" alt="image" src="https://github.com/user-attachments/assets/f0185a48-6af6-41ed-a7c8-5a01dc741090" />
 
-   Após esse processo, o seu computador estará concectado com o Sparki e pronto para ser usado.
+   <img width="1159" height="251" alt="image" src="https://github.com/user-attachments/assets/7fff8358-db85-49ac-942b-4374d31b6a2e" />
+
+   
+
+   Após esse processo, o seu computador estará concectado com o Sparki e pronto para ser usado, basta selecionar a porta conectada ao USB e a placa que tem como nome ArcBotics Sparki.
    
 
 
